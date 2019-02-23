@@ -7,6 +7,7 @@ public class CRM_Admin_DriverScript {
 		Admin a=new Admin();
 		a.CRM_Admin_Login();
 		a.CRM_Admin_Login1();
+		a.CRM_Admin_Login();a.CRM_Admin_Login();a.CRM_Admin_Login1();
 		
 
 	}
